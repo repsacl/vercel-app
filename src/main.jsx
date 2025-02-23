@@ -6,7 +6,7 @@ import App from './pages/App'
 import Page from './pages/Pagee'
 import Nopage from './pages/NoPage'
 
-import NavBar from './components/Navbar'
+import NavBar from './components/NavBarr'
 import Footer from './components/Footer'
 
 import './index.css'
