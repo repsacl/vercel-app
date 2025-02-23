@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom'
 
 import App from './pages/App'
-import Page from './pages/Page'
+import Page from './pages/page'
 import Nopage from './pages/NoPage'
 
-import NavBar from './components/NavBar'
+import NavBar from './components/Navbar.jsx'
 import Footer from './components/Footer'
 
 import './index.css'
